@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Content",
+    "\\Models",
+    "\\Views",
+    "\\Views\\category",
+    "\\Views\\Home",
+    "\\Views\\listingGrid",
+    "\\Views\\listingLarge",
+    "\\Views\\product",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
